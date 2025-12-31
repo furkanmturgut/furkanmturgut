@@ -18,7 +18,7 @@ Coding bugs like Pac-Man eats dots 👾
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mssql" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" height="60" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=javascript" height="60" />
   <img width="12" />
