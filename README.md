@@ -43,11 +43,6 @@ Coding bugs like Pac-Man eats dots 👾
 
 ---
 
-## Test Stats
-
-<img src="https://streak-stats.demolab.com?user=furkanmturgut" />
-<img src="https://github-profile-trophy.vercel.app/?username=furkanmturgut" />
-
 
 ## 👾 Pac-Man Contribution Graph
 
