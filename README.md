@@ -26,7 +26,7 @@ Coding bugs like Pac-Man eats dots 👾
 </div>
 
 <p align="center">
-  DevExpress • PrimeVue • React Native
+ Vue.js • C# • DevExpress • PrimeVue • React Native
 </p>
 
 ---
