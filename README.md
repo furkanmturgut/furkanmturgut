@@ -10,17 +10,20 @@ Coding bugs like Pac-Man eats dots 👾
 ## 🚀 Tech Stack
 
 <div align="center">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="60" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="60" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="60" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mssql" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwindcss" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="60" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" />
 </div>
