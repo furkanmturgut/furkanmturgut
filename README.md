@@ -57,5 +57,3 @@ Coding bugs like Pac-Man eats dots 👾
 
 ## 📫 Contact
 - 📧 **Email:** furkanmehmeturgut@gmail.com
-- 🐙 **GitHub:** https://github.com/furkanmturgut
-
