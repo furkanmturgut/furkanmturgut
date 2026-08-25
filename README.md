@@ -37,23 +37,43 @@ Coding bugs like Pac-Man eats dots 👾
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=furkanmturgut&theme=dracula" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=furkanmturgut&theme=dracula&row=1&column=6" height="150" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanmturgut&layout=compact&theme=dracula"
+    height="150"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com?user=furkanmturgut&theme=dracula"
+    height="150"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=furkanmturgut&theme=dracula&row=1&column=6"
+    height="150"
+  />
 </div>
 
 ---
 
-
 ## 👾 Pac-Man Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/furkanmturgut/furkanmturgut/output/pacman-contribution-graph-dark.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/furkanmturgut/furkanmturgut/output/pacman-contribution-graph-dark.svg"
+  />
+
   <img
-    src="https://raw.githubusercontent.com/furkanmturgut/furkanmturgut/output/pacman-contribution-graph.svg">
+    src="https://raw.githubusercontent.com/furkanmturgut/furkanmturgut/output/pacman-contribution-graph.svg"
+  />
 </picture>
 
 ---
 
 ## 📫 Contact
+
 - 📧 **Email:** furkanmehmeturgut@gmail.com
