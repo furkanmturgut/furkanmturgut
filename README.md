@@ -38,22 +38,15 @@ Coding bugs like Pac-Man eats dots 👾
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanmturgut&layout=compact&theme=dracula"
-    height="150"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanmturgut&layout=compact&theme=dracula&hide_border=true"
+    height="170"
+    alt="Top Languages"
   />
 
   <img
-    src="https://streak-stats.demolab.com?user=furkanmturgut&theme=dracula"
-    height="150"
-  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=furkanmturgut&theme=dracula&row=1&column=6"
-    height="150"
+    src="https://streak-stats.demolab.com?user=furkanmturgut&theme=dracula&hide_border=true"
+    height="170"
+    alt="GitHub Streak"
   />
 </div>
 
