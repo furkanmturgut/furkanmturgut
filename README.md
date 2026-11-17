@@ -1,105 +1,83 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,50:6272a4,100:FFD700&height=200&section=header&text=FURKAN%20MEHMET%20TURGUT&fontSize=40&fontColor=FFD700&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Bug%20Eater&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=600&height=60&lines=READY!;PLAYER+1%3A+FURKAN+MEHMET+TURGUT;FULL+STACK+DEVELOPER;EATING+BUGS+LIKE+DOTS+%E2%97%8F+%E2%97%8F+%E2%97%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2500&pause=700&color=FFD700&center=true&vCenter=true&width=650&height=50&lines=INSERT+COIN+TO+START...;PLAYER+1+READY!;%E1%97%A7+%E2%80%A2+%E2%80%A2+%E2%80%A2+eating+bugs+%E2%80%A2+%E2%80%A2+%E2%80%A2+%F0%9F%91%BB;Vue.js+%2B+C%23+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 
-<p>
-  ᗧ • • • • • 👻 &nbsp; <i>Coding bugs like Pac-Man eats dots</i> &nbsp; 👻 • • • • • ᗤ
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=furkanmturgut&label=PLAYERS%20JOINED&color=ffd700&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=furkanmturgut&label=PLAYERS%20JOINED&color=FFD700&style=for-the-badge" />
+<a href="mailto:furkanmehmeturgut@gmail.com"><img src="https://img.shields.io/badge/PRESS_START-Mail_Me-FF5555?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## 🕹️ LEVEL 1 — Power-Ups (Tech Stack)
+### 🎮 `> player.load()`
+
+```csharp
+public class FurkanMehmetTurgut : FullStackDeveloper
+{
+    public string[] Frontend => ["Vue.js", "PrimeVue", "Tailwind CSS", "React Native"];
+    public string[] Backend  => ["C#", ".NET", "DevExpress"];
+    public string    Database => "PostgreSQL";
+
+    public string Motto    => "Coding bugs like Pac-Man eats dots 👾";
+    public int    Lives    => int.MaxValue;   // never game over
+    public bool   IsCoffeePowered => true;    // ☕ = power pellet
+}
+```
+
+---
+
+### 🍒 `> inventory.powerUps`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,react,cs,dotnet,postgres&perline=9" height="56" />
-  <br/><br/>
-  <code>Vue.js</code> • <code>C#</code> • <code>DevExpress</code> • <code>PrimeVue</code> • <code>React Native</code>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,react,cs,dotnet,postgres,git,vscode&perline=11" />
 </div>
 
 ---
 
-## 🍒 LEVEL 2 — Score Board
+### 🏁 `> scoreboard.show()`
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=furkanmturgut&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=dracula&hide_border=true&title_color=FFD700&icon_color=FFD700&custom_title=HIGH%20SCORE"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=furkanmturgut&theme=dracula&hide_border=true&ring=FFD700&fire=FF5555&currStreakLabel=FFD700"
-    height="165"
-    alt="GitHub Streak"
-  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=furkanmturgut&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=dracula&hide_border=true&title_color=FFD700&icon_color=FFD700&custom_title=HIGH%20SCORE" />
+  <img height="165" src="https://streak-stats.demolab.com?user=furkanmturgut&theme=dracula&hide_border=true&ring=FFD700&fire=FF5555&currStreakLabel=FFD700" />
 </div>
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanmturgut&layout=donut&langs_count=6&theme=dracula&hide_border=true&title_color=FFD700&custom_title=FRUITS%20COLLECTED"
-    height="200"
-    alt="Top Languages"
-  />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=furkanmturgut&theme=dracula&utcOffset=3" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=furkanmturgut&theme=dracula" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=furkanmturgut&theme=dracula" />
 </div>
 
 ---
 
-## 📈 LEVEL 3 — Commit Activity
+### 📈 `> commits.timeline()`
 
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=furkanmturgut&theme=dracula&hide_border=true&area=true&color=FFD700&line=FFD700&point=FF5555&custom_title=Daily%20Dots%20Eaten"
-    width="100%"
-    alt="Contribution activity graph"
-  />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=furkanmturgut&theme=dracula&hide_border=true&area=true&color=FFD700&line=FFD700&point=FF5555&custom_title=Dots%20Eaten%20Per%20Day" />
 </div>
 
 ---
 
-## ⚡ LEVEL 4 — Recent Moves
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 🏆 BONUS STAGE — Trophies
+### 🏆 `> achievements.unlock()`
 
 <div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=furkanmturgut&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=furkanmturgut&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 </div>
 
 ---
 
-## 👾 FINAL LEVEL — Pac-Man Contribution Graph
+### 👾 `> game.play()`
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/furkanmturgut/furkanmturgut/output/pacman-contribution-graph-dark.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/furkanmturgut/furkanmturgut/output/pacman-contribution-graph.svg"
-    alt="Pac-Man contribution graph"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/furkanmturgut/furkanmturgut/output/pacman-contribution-graph-dark.svg" />
+  <img src="https://raw.githubusercontent.com/furkanmturgut/furkanmturgut/output/pacman-contribution-graph.svg" />
 </picture>
 
 ---
 
-## 📫 INSERT COIN — Contact
-
 <div align="center">
-  <a href="mailto:furkanmehmeturgut@gmail.com">
-    <img src="https://img.shields.io/badge/Email-furkanmehmeturgut%40gmail.com-FFD700?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
-  </a>
-
-  <br/><br/>
-
-  <sub>ᗧ • • • GAME OVER? Never. Press <b>★ Star</b> to continue • • • 👻</sub>
+  <sub>ᗧ • • • • • • GAME OVER? Never. Hit <b>★ Star</b> to continue • • • • • • 👻 👻 👻</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:6272a4,100:282a36&height=120&section=footer" width="100%" />
