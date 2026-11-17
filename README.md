@@ -16,8 +16,9 @@
 ```csharp
 public class FurkanMehmetTurgut : FullStackDeveloper
 {
-    public string[] Frontend => ["Vue.js", "PrimeVue", "Tailwind CSS", "React Native"];
-    public string[] Backend  => ["C#", ".NET", "DevExpress"];
+    public string[] Frontend => ["HTML", "Vue.js", "PrimeVue", "Tailwind CSS", "React Native"];
+    public string[] Backend  => ["C#", ".NET", "PHP", "DevExpress"];
+
     public string    Database => "PostgreSQL";
 
     public string Motto    => "Coding bugs like Pac-Man eats dots 👾";
@@ -30,9 +31,7 @@ public class FurkanMehmetTurgut : FullStackDeveloper
 
 ### 🍒 `> inventory.powerUps`
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,react,cs,dotnet,postgres,git,vscode&perline=11" />
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,react,cs,dotnet,php,postgres,git,vscode&perline=12" />
 
 ---
 
